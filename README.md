@@ -2,6 +2,7 @@
 
 - 💽 Atualmente não trabalho na área.
 - 🌱 Estou me aprimorando em HTML e CSS.
+- 💡 Aprendendo JavaScript.
 - 💻 Estou atualmente cursando <b>Desenvolvimento de Sistemas</b> na Etec.
 -->
 <img align="center" height="180" widht="190" src="https://imgs.search.brave.com/RpCxKtQ7_bTlFwUEXXF9Z2ltLyIilcdLdk0dFakVLDs/rs:fit:736:736:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U0Lzcy/Lzg1L2U0NzI4NTdj/ZmZhN2E3MmY4ZThj/NTM5NjBhMjRmYmFm/LmpwZw">
