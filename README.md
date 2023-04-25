@@ -7,8 +7,6 @@
 -->
 <img align="center" height="180" widht="190" src="https://imgs.search.brave.com/RpCxKtQ7_bTlFwUEXXF9Z2ltLyIilcdLdk0dFakVLDs/rs:fit:736:736:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U0Lzcy/Lzg1L2U0NzI4NTdj/ZmZhN2E3MmY4ZThj/NTM5NjBhMjRmYmFm/LmpwZw">
   
-<br>![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizAngelis&show_icons=true&theme=radical)
-
 <h2>📚 Minhas Skills<h2>
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,6 +23,6 @@
   
   <h2>🏠 Onde me encontrar<h2>
 <div>
-  <a href="mailto:beatriizangelis@gmail.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-  <a href="https://www.linkedin.com/in/beatriz-angelis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+  <a href="mailto:beatriizangelis@gmail.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/beatriz-angelis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
